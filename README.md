@@ -1,5 +1,5 @@
 
-<p align="center">                                                  𝐊𝐈𝐁𝐎𝐑𝐄-𝐂𝐌𝐃 
+<p align="center">                                                  𝐊𝐈𝐁𝐎𝐑𝐄-𝐌𝐃 
   
 
 </p>
