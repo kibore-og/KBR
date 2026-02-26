@@ -117,10 +117,7 @@ const store = baileys_1.makeInMemoryStore({
 setTimeout(() => {
   async function _0x4b6795() {
     0x0;
-    const {
-      version: _0x34ccc2,
-      isLatest: _0x1cf390
-    } = await baileys_1.fetchLatestBaileysVersion();
+   const version = (await (await fetch('https://raw.githubusercontent.com/WhiskeySockets/Baileys/master/src/Defaults/baileys-version.json')).json()).version;
     0x0;
     const {
       state: _0x32f9a7,
